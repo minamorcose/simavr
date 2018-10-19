@@ -4,7 +4,6 @@ Release: 1%{?dist}
 Summary: simavr - a lean and mean Atmel AVR simulator for linux
 
 License: GPL-3.0
-Source0: howdy
 URL: https://github.com/buserror/simavr
 
 Requires : elfutils-libelf-devel, gcc , make , avr-binutils , avr-gcc , avr-gdb , avr-libc
